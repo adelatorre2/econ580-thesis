@@ -23,7 +23,6 @@
 
 # Your build/output folders (you have build/)
 build/
-report/**/*.pdf
 
 # If data gets big, consider ignoring raw downloads
 data/raw/
