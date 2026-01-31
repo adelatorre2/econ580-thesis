@@ -1,0 +1,29 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# Mac + editor junk
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+
+# Your build/output folders (you have build/)
+build/
+report/**/*.pdf
+
+# If data gets big, consider ignoring raw downloads
+data/raw/
